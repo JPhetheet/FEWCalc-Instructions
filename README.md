@@ -1,8 +1,6 @@
 # FEWCalc Instructions
 
-Jirapat Phetheet and Mary C. Hill
-
-Department of Geology, University of Kansas
+Jirapat Phetheet and Mary C. Hill \n Department of Geology, University of Kansas
 
 NetLogo version 6.1.1, can run on almost all types of computers, as discussed on the NetLogo website. FEWCalc was developed using Microsoft Windows Windows 7 and 10, and macOS Catalina (version 10.15.5). A machine with 64 MB of memory (RAM) is recommended for Windows operating systems. For macOS users, OS X Mountain Lion 10.8.3 or newer is required with 128 MB RAM (258 MB RAM recommended).
 
