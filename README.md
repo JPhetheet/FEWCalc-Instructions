@@ -2,6 +2,9 @@
 
 NetLogo version 6.1.1, can run on almost all types of computers, as discussed on the NetLogo website. FEWCalc was developed using Microsoft Windows Windows 7 and 10, and macOS Catalina (version 10.15.5). A machine with 64 MB of memory (RAM) is recommended for Windows operating systems. For macOS users, OS X Mountain Lion 10.8.3 or newer is required with 128 MB RAM (258 MB RAM recommended).
 
+## FEWCalc GitHub Repository
+https://github.com/JPhetheet/FEWCalc
+
 ## **Step 1. Download NetLogo**
 FEWCalc is developed using a NetLogo platform as an agent-based model. NetLogo is an open source software which is available at https://ccl.northwestern.edu/netlogo. A screenshot of this site is shown in **Fig. 1.** Click **“Download NetLogo”.** Download NetLogo version 6.1.1 or higher. The download can be placed in any directory on your computer.
 
